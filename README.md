@@ -1,17 +1,10 @@
-QAエンジニアをしながら開発勉強中。 
+QAエンジニアをしながら趣味でHP制作やゲーム開発しています
 
 
-HP制作とゲーム開発をしてます。
+ポートフォリオはこちら➔
 
-HTML/CSS/JavaScript/PHP/C#/Unity
+HTML/CSS/JavaScript/PHP/C#/Unity/Docker
 
-
-現在勉強中の技術
-
-PHP/DB設計/Docker/AWS/品質保証
-
-
-ポートフォリオ➔
 
 <!--
 **saki1005/saki1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
