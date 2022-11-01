@@ -1,4 +1,17 @@
-### Hi there 👋
+QAエンジニアをしながら開発勉強中。 
+
+
+HP制作とゲーム開発をしてます。
+
+HTML/CSS/JavaScript/PHP/C#/Unity
+
+
+現在勉強中の技術
+
+PHP/DB設計/Docker/AWS/品質保証
+
+
+ポートフォリオ➔
 
 <!--
 **saki1005/saki1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
