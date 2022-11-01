@@ -6,6 +6,11 @@ QAエンジニアをしながら趣味でHP制作やゲーム開発していま�
 HTML/CSS/JavaScript/PHP/C#/Unity/Docker
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
+)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **saki1005/saki1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
