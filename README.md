@@ -3,7 +3,7 @@ QAエンジニアをしながら趣味でHP制作やゲーム開発していま�
 
 <a href="https://saki1005.github.io/portfolio/">:point_right:ポートフォリオ公開中</a>
 
-HTML/CSS/JavaScript/PHP/C#/Unity/Docker
+Java/PHP/C#/Unity/Docker
 
 
 
@@ -11,6 +11,9 @@ HTML/CSS/JavaScript/PHP/C#/Unity/Docker
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saki1005&layout=compact&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=saki1005&theme=tokyonight&show_icons=ture" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=saki1005&theme=tokyonight&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
