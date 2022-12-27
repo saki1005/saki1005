@@ -1,4 +1,4 @@
-QAエンジニアをしながら趣味でHP制作やゲーム開発しています
+QA業務をしながらHP制作やゲーム開発しているよ
 
 
 <a href="https://saki1005.github.io/portfolio/">:point_right:ポートフォリオ制作中...</a>
